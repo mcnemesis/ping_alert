@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 INSTALL_DIR=/usr/local/ping_alert
 mkdir -p $INSTALL_DIR
 cp ping.py $INSTALL_DIR

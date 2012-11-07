@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 #This should ideally be run within a cron context so that we periodically check the state of our machines...
 
