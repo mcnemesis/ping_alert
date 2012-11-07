@@ -1,0 +1,5 @@
+#u want to enable cron execution of the alarm scripts via the 
+#crontab -e as a non-root user (since root can't use DBUS)
+DISPLAY=:0.0
+* * * * * /usr/local/ping_alert/run_alarms.sh
+
