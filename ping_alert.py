@@ -2,7 +2,7 @@
 #-----------------------
 #Script to Help Monitor specified Host, raise dbus notifications when down or unreachable
 #-----------------------
-#Author : Nemesis Fixx (joewillrich@gmail.com)
+#Author : Nemesis Fixx (joewillrich [at] gmail [dot] com)
 #History:
 #--------
 #7th Nov, 2012 : Nemesis Fixx, Version 1.0
